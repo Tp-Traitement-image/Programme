@@ -1,0 +1,2 @@
+C:\Users\Valentin\Desktop\Cours\C++\TraitementImage\x64\Debug\TraitementImage.exe
+C:\Users\Valentin\Desktop\Cours\C++\TraitementImage\x64\Debug\TraitementImage.pdb
