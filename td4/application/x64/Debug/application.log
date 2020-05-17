@@ -1,0 +1,17 @@
+﻿  complaint.cpp
+  complaints.cpp
+C:\Users\Valentin\Desktop\TD 4\TD 4\correction\td4\metier\complaints.cpp(26,21): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+  application.cpp
+C:\Users\Valentin\Desktop\TD 4\TD 4\correction\td4\application\view-add.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  controller.cpp
+  main.cpp
+C:\Users\Valentin\Desktop\TD 4\TD 4\correction\td4\application\view-add.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  observer.cpp
+  subject.cpp
+  view-add.cpp
+C:\Users\Valentin\Desktop\TD 4\TD 4\correction\td4\application\view-add.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  view-list.cpp
+  view-menu.cpp
+  view.cpp
+  Génération de code en cours...
+  application.vcxproj -> C:\Users\Valentin\Desktop\TD 4\TD 4\correction\td4\x64\Debug\application.exe
